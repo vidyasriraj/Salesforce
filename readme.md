@@ -134,10 +134,6 @@ Roll Number: 21131A05C6<br>
 Email: 21131A05C6@gvpce.ac.in
 
 
-## Contributing
-
-Contributions are welcome!  Please fork the repository, create a new branch, make your changes, and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
