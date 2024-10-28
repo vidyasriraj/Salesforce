@@ -66,6 +66,11 @@ Watch the video above for a complete demonstration of EduConsultPro's features a
 * **Approval Processes:**  Appointment approval workflow with manager-based routing and email notifications for submissions, approvals, and rejections.
 
 
+* **Apex Triggers:**
+    * **`StudentTrigger`:**  This trigger automatically creates a welcome case when a new student record is inserted.  The case is used to track the student's onboarding process.
+    * **`AppointmentTrigger`:** This trigger performs the following actions:
+        * **Before Insert/Update:** Validates that appointments are scheduled during business hours (9 AM to 5 PM) and that the chosen consultant is available at the requested time.
+        * **After Insert:** Sends email notifications to both the student and the consultant confirming the newly scheduled appointment.
 ### User Interface
 
 * **Lightning Components:**
