@@ -6,6 +6,7 @@
 
 EduConsultPro is a comprehensive Salesforce CRM solution tailored for educational institutions. It streamlines the entire student lifecycle, from initial inquiry and enrollment to ongoing support. This centralized platform manages courses, consultants, student data, appointments, and communication effectively.
 
+[![Demonstration Video](http://img.youtube.com/vi/yS1hyQzMzxI/0.jpg)](https://www.youtube.com/watch?v=yS1hyQzMzxI&t=11s "EduConsultPro Demonstration")
 ## Key Features
 
 * **Student Admission Management:**
