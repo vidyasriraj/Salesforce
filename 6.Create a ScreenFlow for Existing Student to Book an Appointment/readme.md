@@ -42,10 +42,10 @@ The flow facilitates appointment booking for existing students, retrieving their
 6. **(Case Path)**
 
     * **Subflow Element (Create Student Case):**
-        * This element requires further definition.  It is assumed that this subflow handles the creation of a `Case` record related to the student.  The subflow should collect the necessary case details and create the `Case` record linked to the `Student` record.  *(Details of this subflow are not provided in the original instructions.)*
+        * This subflow handles the creation of a `Case` record related to the student.  The subflow should collect the necessary case details and create the `Case` record linked to the `Student` record.  **
 
 
 
 ## Flow Logic
 
-The flow begins by gathering student information and retrieving the matching `Student` record.  It then presents the student with the choice to book an appointment or create a case.  Depending on the student's selection, the flow follows the appropriate path. The appointment booking path gathers appointment details, retrieves the consultant information, creates the appointment, and displays a confirmation. The case creation path utilizes a subflow (not fully defined here) to handle case creation.  This branching structure allows for flexibility and caters to different student needs within a single flow.
+The flow begins by gathering student information and retrieving the matching `Student` record.  It then presents the student with the choice to book an appointment or create a case.  Depending on the student's selection, the flow follows the appropriate path. The appointment booking path gathers appointment details, retrieves the consultant information, creates the appointment, and displays a confirmation. The case creation path utilizes a subflow to handle case creation.  This branching structure allows for flexibility and caters to different student needs within a single flow.
