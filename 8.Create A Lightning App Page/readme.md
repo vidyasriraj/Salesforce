@@ -10,8 +10,7 @@ A Lightning app page named "EduConsultPro Home Page" was created. This page serv
 
 The EduConsultPro Home Page was configured with the following settings:
 
-* **App Assignment:** The page was set as the default Home page for the "Sales" app.  This ensures that users accessing the Sales app land directly on the EduConsultPro Home Page.  *(Note: If EduConsultPro is intended for a different app, adjust the app assignment accordingly.)*
-
+* **App Assignment:** The page was set as the default Home page for the "Sales" app.  This ensures that users accessing the Sales app land directly on the EduConsultPro Home Page.  
 * **Profile Assignment:** The page was assigned to the System Administrator profile. This grants system administrators access to the customized home page.  You can extend access to other profiles as needed.
 
 * **Flow Display:** The Combined Master Flow (described in a previous response) is embedded and displayed prominently on the EduConsultPro Home Page.  This allows users to immediately initiate either the new student admission process or the existing student appointment booking process.
