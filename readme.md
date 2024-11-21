@@ -139,10 +139,10 @@ Watch the video above for a complete demonstration of EduConsultPro's features a
 
 ## Author
 
-**Karri Vamsi Krishna**<br>
+**Killi Vidya Sri Raj**<br>
 Gayatri Vidya Parishad College of Engineering(A), Visakhapatnam<br>
-Roll Number: 21131A05C6<br>
-Email: 21131A05C6@gvpce.ac.in
+Roll Number: 21131A0594<br>
+Email: 21131A0594@gvpce.ac.in
 
 
 ## License
